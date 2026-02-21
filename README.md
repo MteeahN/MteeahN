@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hey There 👋
+I’m Metehan, a web and game developer focused on building scalable, maintainable
+systems and interactive experiences.
 
-<!--
-**MteeahN/MteeahN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I primarily work with ASP.NET Core, MSSQL, and modern JavaScript,
+developing dynamic web platforms and structured backend systems.
+Alongside web development, I explore game logic, system design, and
+interactive mechanics. In my projects, I value not only technical
+strength but also clean structure, organization, and thoughtful design.
 
-Here are some ideas to get you started:
+This profile showcases the projects I build, experiment with, and
+continuously improve — each developed with performance, clarity, and
+user experience in mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+-   Web - ASP.NET Core MVC, MSSQL, Modern JavaScript
+-   Game - System logic, Interactive design
+-   Architecture - MVC pattern, Modular system design, Scalable backend
+   structures
+-   Integrations - Role-based authentication flows, Organized file storage
+   systems, Real-time data synchronization between panels
+
+### Focus
+
+-   Clean and maintainable architecture
+-   Performance-driven systems
+-   Interactive and user-centered design
+-   Practical solutions to problems
