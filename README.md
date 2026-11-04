@@ -14,7 +14,7 @@ This profile showcases the projects I build, experiment with, and
 continuously improve — each developed with performance, clarity, and
 user experience in mind.
 
-🌐 Portfolio: [metehantabak.github.io](https://metehantabak.github.io/MetehanTabak)
+🌐 Portfolio: [metehantabak.github.io](https://mteeahn.github.io/MetehanTabak)
 
 ### Tech Stack
 
